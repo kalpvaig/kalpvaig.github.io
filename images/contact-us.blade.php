@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>Kalpvaig Technologies | Conatct Us</title>
+
+  <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="owlcarousel/owl.carousel.css">
+<link rel="stylesheet" href="owlcarousel/owl.theme.min.css">
+
+</head>
+<body>
+
+<!-- Dropdown Structure -->
+     <ul id="dropdown-option" class="dropdown-content">
+      <li><a href="/contact">Help and feedback</a></li>
+      
+    </ul>
+    <div class="navbar-fixed">
+      <nav>
+        <div class="nav-wrapper">
+          <a href="#!" class="brand-logo" style="margin-top:5px"><img src="img/logo_kalpvaig_logo_text.png" class="responsive-img" /></a>
+          <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+            <ul class="right">
+                <li><a class="dropdown-button" href="#!" data-activates="dropdown-option"><i class="material-icons icon-white">more_vert</i></a></li>
+            </ul>
+
+            <ul class="right hide-on-med-and-down">
+            <li><a href="/">Home</a></li>
+                <li><a class="dropdown-button" href="" data-activates="services">Services<i class="material-icons right">arrow_drop_down</i></a></li>
+                     <ul id='services' class='dropdown-content'>
+                      <li><a href="/web">Web Development</a></li>
+                      <li><a href="/app">Android App Development</a></li>
+                      <li><a href="/game">Game Development</a></li>
+                      <li><a href="/hosting">Hosting</a></li>
+                     
+                     </ul>
+
+ <li><a href="/technology">Technology</a></li>
+                 
+                <!-- Dropdown Trigger -->
+                <li><a class="dropdown-button" href="#!" data-activates="products">Products<i class="material-icons right">arrow_drop_down</i></a></li>
+                    <ul id='products' class='dropdown-content'>
+                      <li><a href="/vidyarthi">Vidyarthi Portal App</a></li>
+                      <li><a href="/smartHome">Smart home automation </a></li>
+                      
+                     </ul>
+
+
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact us</a></li>
+            </ul>
+          
+        <ul class="side-nav" id="mobile-demo">
+            
+              <li><a class="dropdown-button" href="" data-activates="services-mobile">Services<i class="material-icons right">arrow_drop_down</i></a>
+                     <ul id='services-mobile' class='dropdown-content'>
+                      <li><a href="/web">Web Development</a></li>
+                      <li><a href="/app">Android App Development</a></li>
+                      <li><a href="/game">Game Development</a></li>
+                      <li><a href="/hosting">Hosting</a></li>
+                     </ul></li>
+
+            <li><a href="/technology">Technology</a></li>
+            <li><a href="/vidyarthi">Products</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact us</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+
+     
+      <div class="section white">
+
+<div class="row">
+        <div class="col s12 m6 offset-m3">
+          <div class="card blue-white darken-1">
+            <div class="card-content darken-text">
+              <span class="card-title">How to reach us ?</span>
+              <p>
+<div>Head Office </div><br>
+H-186 Govindpuram
+Ghaziabad, up 201013<br>
+
+Phone:+9716809959<br>
+Email Address:info@kalpvaig.com
+</p>
+            </div>
+           
+          </div>
+        </div>
+      </div>
+
+
+
+       <div class="row">
+    <form class="col m6 offset-m3">
+      <div class="row">
+        <div class="input-field col m12">
+          <input  id="first_name" type="text" class="validate">
+          <label for="first_name">Full Name</label>
+        </div>
+        
+      </div>
+
+        <div class="row">
+        <div class="input-field col m6">
+          <input  id="first_name" type="email" class="validate">
+          <label for="first_name">Email</label>
+        </div>
+        <div class="input-field col m6">
+          <input id="last_name" type="text" class="validate">
+          <label for="last_name">Mobile</label>
+        </div>
+      </div>
+<div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s6 m12">
+          <i class="material-icons prefix">mode_edit</i>
+          <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
+          <label for="icon_prefix2">Message</label>
+        </div>
+      </div>
+    </form>
+  </div>
+        
+
+       <div class="row">
+            <div class="input-field col m6 offset-m3">
+              <button class="btn waves-effect waves-light" type="submit" name="action">Send
+    <i class="material-icons right">send</i>
+  </button>
+        
+            </div>
+           
+      </div>
+      
+     
+     
+    </form>
+
+  </div>
+   
+      </div>
+     
+<footer class="page-footer purple darken-3" >
+          <div class="container">
+            <div class="row">
+              <div class="col s6  m3">
+                <h5 class="white-text">Learn</h5>
+                <p class="grey-text text-lighten-4"></p><ul>
+               <li><a class="grey-text text-lighten-3" href="http://kalpvaig.com/learn/">K Learn</a></li>
+                <li><a class="grey-text text-lighten-3" href="https://github.com/kalpvaig?tab=repositories">GitHub</a></li>
+                 
+               </ul>
+              </div>
+                <div class="col s6  m3">
+                <h5 class="white-text">Products</h5>
+                <p class="grey-text text-lighten-4"></p><ul>
+               <li><a class="grey-text text-lighten-3" href="/vidyarthi">Vidyarthi</a></li>
+                <li><a class="grey-text text-lighten-3" href="/smartHome">IOT Smart home</a></li>
+                
+               </ul>
+              </div>
+
+               <div class="col s6  m3">
+                <h5 class="white-text">IT</h5>
+                <p class="grey-text text-lighten-4"></p><ul>
+               
+                  <li><a class="grey-text text-lighten-3" href="/web">Web Development</a></li>
+                  <li><a class="grey-text text-lighten-3" href="/app">App Development</a></li>
+                   <li><a class="grey-text text-lighten-3" href="/game">Game Development</a></li>
+                  <li><a class="grey-text text-lighten-3" href="/hosting">Hosting - Cpanel</a></li>
+                  
+               </ul>
+              </div>
+
+              <div class="col s6 m3">
+                <h5 class="white-text">Embedded</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="/iot">Hardware Development</a></li>
+                  <li><a class="grey-text text-lighten-3" href="/iot">Circuit Designing</a></li>
+                  <li><a class="grey-text text-lighten-3" href="/iot">IOT Development</a></li>
+                   <li><a class="grey-text text-lighten-3" href="/iot">Firmware Development</a></li>
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="footer-copyright">
+            <div class="container">
+            ©2016 Kalpvaig Technologies</a>
+           
+            </div>
+          </div>
+        </footer>
+
+
+    <!-- Floating action button -->
+     <div class="fixed-action-btn horizontal click-to-toggle" style="bottom: 45px; right: 24px;">
+        <a class="btn-floating waves-effect waves-light btn-large red">
+          <i class="material-icons">share</i>
+        </a>
+        <ul>
+         <li> <a class="btn-floating blue" href="https://www.facebook.com/kalpvaigtechnologies"><i class="fa fa-facebook-square" aria-hidden="true"></i>
+</a></li>
+          <li><a class="btn-floating blue " href="https://twitter.com/kalpvaig"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+</a></li>
+          <li><a class="btn-floating blue" href="https://www.linkedin.com/company/kalpvaig-technologies-llp"><i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a></li>
+          
+        </ul>
+      </div>
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+  <script type="text/javascript">
+      $(document).ready(function(){
+        $('.modal-trigger').leanModal();
+      });
+
+  </script>
+<script src="owlcarousel/owl.carousel.min.js"></script>
+<script type="text/javascript">
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout: 1000,
+    autoplayHoverPause: true,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1,
+            nav:true,
+            loop: true
+        },
+        600:{
+            items:3,
+            nav:false,
+            loop: true
+        },
+        1000:{
+            items:5,
+            nav:true,
+            loop:true
+        }
+    }
+});
+</script>
+
+  </body>
+</html>
